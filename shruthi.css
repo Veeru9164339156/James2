@@ -1,0 +1,74 @@
+        <<<<<<< HEAD body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background: #c4dbf3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    
+    .login-container {
+        background: #e7d6d6;
+        padding: 30px 25px;
+        border-radius: 8px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        width: 330px;
+        text-align: center;
+    }
+    
+    .login-container h2 {
+        margin-bottom: 20px;
+        color: #333;
+    }
+    
+    .login-container input[type="text"],
+    .login-container input[type="password"] {
+        width: 100%;
+        padding: 12px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+    
+    .login-container input[type="submit"] {
+        width: 100%;
+        background-color: #007bff;
+        color: white;
+        padding: 12px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    
+    .login-container input[type="submit"]:hover {
+        background-color: #0056b3;
+    }
+    
+    .login-container p {
+        margin-top: 15px;
+    }
+    
+    .login-container a {
+        color: #007bff;
+        text-decoration: none;
+    }
+    
+    .login-container a:hover {
+        text-decoration: underline;
+        * {
+            padding: 0%;
+            margin: 0%;
+        }
+        h1 {
+            text-transform: capitalize;
+            color: aqua;
+        }
+        p {
+            text-transform: capitalize;
+            color: brown;
+            >>>>>>>ae4fdf302eff7510edbc9c6eedb8f50f790edefa
+        }
