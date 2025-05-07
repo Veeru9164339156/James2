@@ -1,0 +1,34 @@
+
+body{
+margin: 0%;
+padding: 1%;
+background-color: burlywood;
+#a{
+text-transform: uppercase;
+font-size: 30px;
+color: crimson;
+text-align: center;
+}
+#b{
+    width: 100%;
+}
+p{
+    text-transform: lowercase;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.own{
+    display: flex;
+    flex-direction: column;
+
+}
+    #c{
+        text-align: center;
+        text-transform: uppercase;
+        color: brown;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    #e{
+        width: 100%;
+    }
+}
