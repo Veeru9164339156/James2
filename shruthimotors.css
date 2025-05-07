@@ -1,0 +1,32 @@
+
+.mainpage{
+    background-color:burlywood;
+    h1{
+        background-color: chocolate;
+        text-align: center;
+        font-family:'Courier New', Courier, monospace;
+        font-size: 50px;
+    }
+    .nov{
+    display: flex;
+    border: 1px solid rgb(167, 162, 166);
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    padding: 5px 20px;
+    i{
+        font-size: 30px;
+    }
+    a{
+
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 20px;
+    }
+    }
+    .img1{
+        height: 100px;
+        width: 200px;
+    }
+}
