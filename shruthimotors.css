@@ -17,7 +17,7 @@ body{
     align-items: center;
     justify-items: center;
     padding: 5px 20px;
-    position: fixed;
+    position: sticky;
     width: 96%;
     background-color: greenyellow;
     i{
