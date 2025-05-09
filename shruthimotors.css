@@ -1,11 +1,13 @@
 
-.mainpage{
-    background-color:burlywood;
-    h1{
-        background-color: chocolate;
+body{
+    background-color:rgb(246, 202, 155);
+}
+    head{
+        background-color: rgb(0, 249, 249);
         text-align: center;
         font-family:'Courier New', Courier, monospace;
         font-size: 50px;
+        position: sticky;
     }
     .nov{
     display: flex;
@@ -15,6 +17,7 @@
     align-items: center;
     justify-items: center;
     padding: 5px 20px;
+    position: sticky;
     i{
         font-size: 30px;
     }
