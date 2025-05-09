@@ -18,6 +18,8 @@ body{
     justify-items: center;
     padding: 5px 20px;
     position: fixed;
+    width: 96%;
+    background-color: greenyellow;
     i{
         font-size: 30px;
     }
