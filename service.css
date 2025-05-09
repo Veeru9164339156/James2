@@ -9,7 +9,7 @@
         .img {
             display: flex;
             padding-top: 50px;
-            padding-left: 280px;
+            padding-left: 290px;
             border: black, solid, 1px;
             padding-bottom: 10px;
             border-radius: 100px;
@@ -23,7 +23,8 @@
             border: bisque, ;
             border-radius: 10px;
             background-color: rgb(36, 23, 23);
-            box-shadow: 5px, rgb(95, 93, 211);
+            box-shadow: 5px, rgb(177, 174, 12);
+            text-shadow: 10px;
         }
         
         form {
