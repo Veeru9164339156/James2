@@ -17,6 +17,7 @@ body{
     align-items: center;
     justify-items: center;
     padding: 5px 20px;
+    position: sticky;
     i{
         font-size: 30px;
     }
